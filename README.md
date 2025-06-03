@@ -1,9 +1,9 @@
 # 👋 Olá, sou o Matheus Daniel 
 
-👨‍🎓  Estudante de desenvolvimento de sistemas
-🚀 Buscando estágio em T.I
-🔐 Interesse em desenvovimento de sistemas, redes de computadores e segurança da informação
-📍 Taboão da Serra - SP
+👨‍🎓  Estudante de desenvolvimento de sistemas  
+🚀 Buscando estágio em T.I  
+🔐 Interesse em desenvovimento de sistemas, redes de computadores e segurança da informação  
+📍 Taboão da Serra - SP  
 
 ---
 
